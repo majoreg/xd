@@ -1,6 +1,6 @@
 {
-  "token": "NDY3MzM1NDg2MDM4NjA1ODM0.DipHmg.KvEobAbmeygVz9u-OLwxyruPueE",
-  "mailGuildId": "467335620579164160",
+  "token": "process.env.token",
+  "mailGuildId": "process.env.mailGuildId",
   "mainGuildId": "id of the main server where users will DM the bot",
   "logChannelId": "id of the channel on the inbox server where notifications of new logs etc. will be posted",
 
